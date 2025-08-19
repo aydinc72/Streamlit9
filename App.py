@@ -2,6 +2,11 @@ import streamlit as st
 import pandas as pd
 import io
 
+st.set_page_config(
+    page_title="Para Takip",       # Ana ekrana eklendiğinde görünen isim
+    page_icon="💵"                 # İkon olarak kullanılacak emoji veya resim
+)
+
 # Başlangıç verileri (default)
 default_data = {
     "Ortam": [
