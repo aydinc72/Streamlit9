@@ -10,12 +10,12 @@ st.set_page_config(
 # Başlangıç verileri (default)
 default_data = {
     "Ortam": [
-        "ata", "enpara", "akbank", "midas", "akbnk", 
+        "ata", "enpara", "akbank", "midas",  
         "ykb", "dvz", "ozlem_ykb", "ozlemata", "obaba_hisse", "bes"
     ],
     "Tutar": [
-        3300000, 750000, 2880000, 700000, 1000,
-        1430000, 120000, 60000, 900000, 0, 1150000
+        4800000, 750000, 3120000, 1450000, 
+        850000, 120000, 60000, 1200000, 0, 1230000
     ]
 }
 
