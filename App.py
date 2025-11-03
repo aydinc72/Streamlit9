@@ -11,11 +11,11 @@ st.set_page_config(
 default_data = {
     "Ortam": [
         "ata", "enpara", "akbank", "midas",  
-        "ykb", "dvz", "ozlem_ykb", "ozlemata", "obaba_hisse", "bes"
+        "ykb", "dvz", "ozlem_ykb", "ozlemata", "aylin_hisse", "bes"
     ],
     "Tutar": [
-        4800000, 600000, 3120000, 1150000, 
-        900000, 120000, 60000, 1200000, 0, 1230000
+        4200000, 600000, 2360000, 2020000, 
+        320000, 120000, 10000, 1250000, 429000, 1260000
     ]
 }
 
